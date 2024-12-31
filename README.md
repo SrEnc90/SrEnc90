@@ -20,5 +20,17 @@
 </div>
 
 ## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SrEnc90&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SrEnc90&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SrEnc90&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrEnc90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
