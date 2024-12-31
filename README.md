@@ -4,6 +4,8 @@
 
 ## Hi 👋, I'm Carlos Enc.
 
+<img src="https://komarev.com/ghpvc/?username=SrEnc90&style=flat-square&color=blue" alt=""/>
+
 <!--
 **SrEnc90/SrEnc90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
